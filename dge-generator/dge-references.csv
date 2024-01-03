@@ -1,0 +1,1015 @@
+Bevölkerungsgruppe,Geschlecht,Nährstoff,Referenzwert,Einheit,Bemerkung,Kategorie,Fussnoten
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Energie,550,kcal/Tag,,Richtwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Energie,700,kcal/Tag,,Richtwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Energie,2600,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Energie,2400,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Energie,2300,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Energie,2200,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Energie,2100,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Energie,1200,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Energie,1400,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Energie,1700,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Energie,1900,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Energie,2300,kcal/Tag,"bei PAL 1,4",Richtwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Energie,3000,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Energie,2800,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Energie,2700,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Energie,2500,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Energie,2500,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Energie,1300,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Energie,1600,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Energie,1900,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Energie,2200,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Energie,2600,kcal/Tag,"bei PAL 1,6",Richtwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Energie,3400,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Energie,3100,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Energie,3000,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Energie,2800,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Energie,2800,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Energie,1800,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Energie,2100,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Energie,2400,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Energie,2900,kcal/Tag,"bei PAL 1,8",Richtwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Gesamtfett,45-50,% der Energie,,Richtwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Gesamtfett,35-45,% der Energie,,Richtwert,"ag,aj"
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,c"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,c,af"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,c,af"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,af"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,af"
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Gesamtfett,30-40,% der Energie,,Richtwert,"ag,aj"
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Protein,"2,5 / 1,8 / 1,4",g/kg KG/Tag,,Schätzwert,"a,b"
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Protein,"1,3",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Protein,"1,0",g/kg KG/Tag,,Schätzwert,a
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Protein,"1,0",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Gesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Gesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Einfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Einfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Mehrfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Linolsäure,"4,0",% der Energie,,Empfohlene Zufuhr,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Linolsäure,"3,5",% der Energie,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Linolsäure,"3,0",% der Energie,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,EPA_DHA,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,EPA_DHA,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Kohlenhydrate,≈ 45,% der Energie,,Richtwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Kohlenhydrate,≈ 47,% der Energie,,Richtwert,ai
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Alkohol,20,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Alkohol,20,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Alkohol,20,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Alkohol,20,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Alkohol,-,-,Säuglinge sollen keinen Alkohol trinken.,-,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Alkohol,-,-,Säuglinge sollen keinen Alkohol trinken.,-,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin A,500,µg-RAE/Tag,,Schätzwert,d
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin A,400,µg-RAE/Tag,,Schätzwert,d
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin A,950,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin A,850,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin A,850,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin A,850,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin A,800,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin A,300,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin A,350,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin A,450,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin A,600,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin A,800,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin D,10,µg/Tag,Supplementationshinweis beachten,Schätzwert,"e,al,f"
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin D,10,µg/Tag,Supplementationshinweis beachten,Schätzwert,"e,al,f"
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin E,3,mg/Tag,,Schätzwert,g
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin E,4,mg/Tag,,Schätzwert,g
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin E,15,mg/Tag,,Schätzwert,g
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin E,15,mg/Tag,,Schätzwert,g
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin E,14,mg/Tag,,Schätzwert,g
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin E,13,mg/Tag,,Schätzwert,g
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin E,12,mg/Tag,,Schätzwert,g
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin E,6,mg/Tag,,Schätzwert,g
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin E,8,mg/Tag,,Schätzwert,g
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin E,10,mg/Tag,,Schätzwert,g
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin E,13,mg/Tag,,Schätzwert,g
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin E,14,mg/Tag,,Schätzwert,g
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin K,4,µg/Tag,Supplementationshinweis beachten,Schätzwert,h
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin K,10,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin K,70,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin K,70,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin K,70,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin K,80,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin K,80,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin K,15,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin K,20,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin K,30,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin K,40,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin K,50,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Thiamin,"0,2",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Thiamin,"0,4",mg/Tag,,Empfohlene Zufuhr,j
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Thiamin,"1,4",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Thiamin,"1,3",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Thiamin,"1,2",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Thiamin,"1,2",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Thiamin,"1,1",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Thiamin,"0,6",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Thiamin,"0,7",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Thiamin,"0,9",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Thiamin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Thiamin,"1,2",mg/Tag,,Empfohlene Zufuhr,j
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Riboflavin,"0,3",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Riboflavin,"0,4",mg/Tag,,Empfohlene Zufuhr,j
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Riboflavin,"1,6",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Riboflavin,"1,4",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Riboflavin,"1,4",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Riboflavin,"1,3",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Riboflavin,"1,3",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Riboflavin,"0,7",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Riboflavin,"0,8",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Riboflavin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Riboflavin,"1,1",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Riboflavin,"1,4",mg/Tag,,Empfohlene Zufuhr,j
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Niacin,2,mg/Tag,,Schätzwert,i
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Niacin,5,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Niacin,17,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Niacin,16,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Niacin,15,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Niacin,15,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Niacin,14,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Niacin,8,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Niacin,9,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Niacin,11,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Niacin,13,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Niacin,15,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin B6,"0,1",mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin B6,"0,3",mg/Tag,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin B6,"1,6",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin B6,"1,6",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin B6,"1,6",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin B6,"1,6",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin B6,"1,6",mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin B6,"0,6",mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin B6,"0,7",mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin B6,"1,0",mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin B6,"1,2",mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin B6,"1,5",mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Folat,60,µg/Tag,,Schätzwert,m
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Folat,80,µg/Tag,,Schätzwert,m
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Folat,120,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Folat,140,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Folat,180,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Folat,240,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Pantothensäure,2,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Pantothensäure,3,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Pantothensäure,4,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Pantothensäure,4,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Pantothensäure,4,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Biotin,4,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Biotin,6,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Biotin,40,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Biotin,20,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Biotin,25,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Biotin,25,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Biotin,35,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Biotin,35,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin B12 (Cobalamine),"0,5",µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin B12 (Cobalamine),"1,4",µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"1,5",µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"2,0",µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"2,5",µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"3,5",µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Vitamin C,20,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Vitamin C,20,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Vitamin C,105,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Vitamin C,110,mg/Tag,,Empfohlene Zufuhr,o
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Vitamin C,110,mg/Tag,,Empfohlene Zufuhr,o
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Vitamin C,110,mg/Tag,,Empfohlene Zufuhr,o
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Vitamin C,110,mg/Tag,,Empfohlene Zufuhr,o
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Vitamin C,20,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Vitamin C,30,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Vitamin C,45,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Vitamin C,65,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Vitamin C,85,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Natrium,130,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Natrium,200,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Natrium,1500,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Natrium,400,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Natrium,500,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Natrium,750,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Natrium,1100,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Natrium,1400,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Chlorid,300,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Chlorid,450,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Chlorid,2300,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Chlorid,600,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Chlorid,750,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Chlorid,1150,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Chlorid,1700,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Chlorid,2150,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Kalium,400,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Kalium,600,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Kalium,4000,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Kalium,1100,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Kalium,1300,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Kalium,2000,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Kalium,2900,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Kalium,3600,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Calcium,220,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Calcium,330,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Calcium,1200,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Calcium,600,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Calcium,750,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Calcium,900,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Calcium,1100,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Calcium,1200,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Phosphor,120,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Phosphor,300,mg/Tag,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Phosphor,1250,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Phosphor,500,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Phosphor,600,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Phosphor,800,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Phosphor,1250,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Phosphor,1250,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Magnesium,24,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Magnesium,80,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Magnesium,330,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Magnesium,350,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Magnesium,350,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Magnesium,350,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Magnesium,350,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Magnesium,170,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Magnesium,190,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Magnesium,240,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Magnesium,260,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Magnesium,280,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Eisen,"0,5",mg/Tag,,Schätzwert,"t,u"
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Eisen,8,mg/Tag,,Empfohlene Zufuhr,t
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Eisen,12,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Eisen,8,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Eisen,8,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Eisen,12,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Eisen,12,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Jod,40,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Jod,80,µg/Tag,Supplementationshinweis beachten,Empfohlene Zufuhr,ah
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Jod,180,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Jod,180,µg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Jod,100,µg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Jod,120,µg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Jod,140,µg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Jod,180,µg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Fluorid,"0,25",mg/Tag,Supplementationshinweis beachten,Richtwert,"am,an,ao"
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Fluorid,"0,5",mg/Tag,Supplementationshinweis beachten,Richtwert,"am,an,ao"
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Fluorid,"3,2",mg/Tag,,Richtwert,"am,an"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Fluorid,"3,8",mg/Tag,,Richtwert,"am,an"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Fluorid,"3,8",mg/Tag,,Richtwert,"am,an"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Fluorid,"3,8",mg/Tag,,Richtwert,"am,an"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Fluorid,"3,8",mg/Tag,,Richtwert,"am,an"
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Fluorid,"0,7",mg/Tag,Supplementationshinweis beachten,Richtwert,"am,an,ao"
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Fluorid,"1,1",mg/Tag,,Richtwert,"am,an"
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Fluorid,"1,1",mg/Tag,,Richtwert,"am,an"
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Fluorid,"2,0",mg/Tag,,Richtwert,"am,an"
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Fluorid,"3,2",mg/Tag,,Richtwert,"am,an"
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Zink,"1,5",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Zink,"2,5",mg/Tag,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Zink,14,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Zink,3,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Zink,4,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Zink,6,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Zink,9,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Zink,12,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Zink,11,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Zink,11,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Zink,11,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Zink,11,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Zink,14,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Zink,14,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Zink,14,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Zink,14,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Zink,16,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Zink,16,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Zink,16,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Zink,16,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Selen,10,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Selen,15,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Selen,70,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Selen,70,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Selen,70,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Selen,70,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Selen,70,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Selen,15,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Selen,20,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Selen,30,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Selen,45,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Selen,60,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Kupfer,"0,2-0,6",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Kupfer,"0,6-0,7",mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Kupfer,"0,5-1,0",mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Kupfer,"0,5-1,0",mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Mangan,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Mangan,"0,6-1,0",mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Mangan,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Mangan,"1,5-2,0",mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Mangan,"2,0-3,0",mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Chrom,1-10,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Chrom,20-40,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Chrom,30-100,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Chrom,20-60,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Chrom,20-80,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Chrom,20-100,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Chrom,20-100,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Chrom,20-100,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Männlich),Männlich,Molybdän,7,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Männlich),Männlich,Molybdän,20-40,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Männlich),Männlich,Molybdän,25-50,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Männlich),Männlich,Molybdän,30-75,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Männlich),Männlich,Molybdän,40-80,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Männlich),Männlich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Energie,500,kcal/Tag,,Richtwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Energie,600,kcal/Tag,,Richtwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Energie,2000,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Energie,1900,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Energie,1800,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Energie,1700,kcal/Tag,"bei PAL 1,4",Richtwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Energie,1700,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Energie,1100,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Energie,1300,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Energie,1500,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Energie,1700,kcal/Tag,"bei PAL 1,4",Richtwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Energie,1900,kcal/Tag,"bei PAL 1,4",Richtwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Energie,2300,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Energie,2200,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Energie,2100,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Energie,2000,kcal/Tag,"bei PAL 1,6",Richtwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Energie,1900,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Energie,1200,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Energie,1500,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Energie,1800,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Energie,2000,kcal/Tag,"bei PAL 1,6",Richtwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Energie,2200,kcal/Tag,"bei PAL 1,6",Richtwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Energie,2600,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Energie,2500,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Energie,2400,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Energie,2200,kcal/Tag,"bei PAL 1,8",Richtwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Energie,2100,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Energie,1700,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Energie,2000,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Energie,2200,kcal/Tag,"bei PAL 1,8",Richtwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Energie,2500,kcal/Tag,"bei PAL 1,8",Richtwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Gesamtfett,45-50,% der Energie,,Richtwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Gesamtfett,35-45,% der Energie,,Richtwert,"ag,aj"
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,c"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,c,af"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,c,af"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,af"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Gesamtfett,30,% der Energie,,Richtwert,"ag,aj,af"
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Gesamtfett,30-40,% der Energie,,Richtwert,"ag,aj"
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Gesamtfett,30-35,% der Energie,,Richtwert,"ag,aj"
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Protein,"2,5 / 1,8 / 1,4",g/kg KG/Tag,,Schätzwert,"a,b"
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Protein,"1,3",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Protein,"0,8",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Protein,"1,0",g/kg KG/Tag,,Schätzwert,a
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Protein,"1,0",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Protein,"0,9",g/kg KG/Tag,,Empfohlene Zufuhr,a
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Gesättigte Fettsäuren,max. 10 ,% der Energie,,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Gesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Gesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,>10,% der Energie,,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Einfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,7-10,% der Energie,,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Mehrfach ungesättigte Fettsäuren,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Linolsäure,"4,0",% der Energie,,Empfohlene Zufuhr,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Linolsäure,"3,5",% der Energie,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Linolsäure,"3,0",% der Energie,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Linolsäure,"2,5",% der Energie,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,α-Linolensäure,"0,5",% der Energie,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,EPA_DHA,250,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,EPA_DHA,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,EPA_DHA,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Kohlenhydrate,≈ 45,% der Energie,,Richtwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Kohlenhydrate,≈ 47,% der Energie,,Richtwert,ai
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Kohlenhydrate,>50,% der Energie,,Richtwert,"ai,aj"
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Ballaststoffe,>30,g/Tag,,Richtwert,ap
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Ballaststoffe,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,ap
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Alkohol,10,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Alkohol,10,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Alkohol,10,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Alkohol,10,g/Tag,tolerierbare Gesamtzufuhrmenge,Richtwert,ak
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Alkohol,-,-,Kinder und Jugendliche sollen keinen Alkohol trinken.,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Alkohol,-,-,Säuglinge sollen keinen Alkohol trinken.,-,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Alkohol,-,-,Säuglinge sollen keinen Alkohol trinken.,-,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin A,500,µg-RAE/Tag,,Schätzwert,d
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin A,400,µg-RAE/Tag,,Schätzwert,d
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin A,800,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin A,700,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin A,700,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin A,700,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin A,700,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin A,300,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin A,350,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin A,450,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin A,600,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin A,700,µg-RAE/Tag,,Empfohlene Zufuhr,d
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin D,10,µg/Tag,Supplementationshinweis beachten,Schätzwert,"e,al,f"
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin D,10,µg/Tag,Supplementationshinweis beachten,Schätzwert,"e,al,f"
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin D,20,µg/Tag,bei fehlender endogener Synthese,Schätzwert,"e,al"
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin E,3,mg/Tag,,Schätzwert,g
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin E,4,mg/Tag,,Schätzwert,g
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin E,12,mg/Tag,,Schätzwert,g
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin E,12,mg/Tag,,Schätzwert,g
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin E,12,mg/Tag,,Schätzwert,g
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin E,12,mg/Tag,,Schätzwert,g
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin E,11,mg/Tag,,Schätzwert,g
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin E,5,mg/Tag,,Schätzwert,g
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin E,8,mg/Tag,,Schätzwert,g
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin E,9,mg/Tag,,Schätzwert,g
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin E,11,mg/Tag,,Schätzwert,g
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin E,12,mg/Tag,,Schätzwert,g
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin K,4,µg/Tag,Supplementationshinweis beachten,Schätzwert,h
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin K,10,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin K,60,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin K,60,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin K,60,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin K,65,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin K,65,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin K,15,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin K,20,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin K,30,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin K,40,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin K,50,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Thiamin,"0,2",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Thiamin,"0,4",mg/Tag,,Empfohlene Zufuhr,j
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Thiamin,"1,1",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Thiamin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Thiamin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Thiamin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Thiamin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Thiamin,"0,6",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Thiamin,"0,7",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Thiamin,"0,8",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Thiamin,"0,9",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Thiamin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Riboflavin,"0,3",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Riboflavin,"0,4",mg/Tag,,Empfohlene Zufuhr,j
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Riboflavin,"1,2",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Riboflavin,"1,1",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Riboflavin,"1,1",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Riboflavin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Riboflavin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Riboflavin,"0,7",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Riboflavin,"0,8",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Riboflavin,"0,9",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Riboflavin,"1,0",mg/Tag,,Empfohlene Zufuhr,j
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Riboflavin,"1,1",mg/Tag,,Empfohlene Zufuhr,j
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Niacin,2,mg/Tag,,Schätzwert,i
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Niacin,5,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Niacin,13,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Niacin,13,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Niacin,12,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Niacin,11,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Niacin,11,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Niacin,8,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Niacin,9,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Niacin,10,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Niacin,11,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Niacin,13,mg/Tag,,Empfohlene Zufuhr,"i,j"
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin B6,"0,1",mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin B6,"0,3",mg/Tag,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin B6,"1,4",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin B6,"1,4",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin B6,"1,4",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin B6,"1,4",mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin B6,"1,4",mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin B6,"0,6",mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin B6,"0,7",mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin B6,"1,0",mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin B6,"1,2",mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin B6,"1,4",mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Folat,60,µg/Tag,,Schätzwert,m
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Folat,80,µg/Tag,,Schätzwert,m
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Folat,300,µg/Tag,Supplementationshinweis beachten,Empfohlene Zufuhr,"m,n"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Folat,300,µg/Tag,Supplementationshinweis beachten,Empfohlene Zufuhr,"m,n"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Folat,300,µg/Tag,Supplementationshinweis beachten,Empfohlene Zufuhr,"m,n"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Folat,120,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Folat,140,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Folat,180,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Folat,240,µg/Tag,,Empfohlene Zufuhr,m
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Folat,300,µg/Tag,,Empfohlene Zufuhr,m
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Pantothensäure,2,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Pantothensäure,3,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Pantothensäure,4,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Pantothensäure,4,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Pantothensäure,4,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Pantothensäure,5,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Biotin,4,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Biotin,6,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Biotin,40,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Biotin,40,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Biotin,20,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Biotin,25,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Biotin,25,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Biotin,35,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Biotin,35,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"0,5",µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"1,4",µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"1,5",µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"2,0",µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"2,5",µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"3,5",µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin B12 (Cobalamine),"4,0",µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Vitamin C,20,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Vitamin C,20,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Vitamin C,90,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Vitamin C,95,mg/Tag,,Empfohlene Zufuhr,p
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Vitamin C,95,mg/Tag,,Empfohlene Zufuhr,p
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Vitamin C,95,mg/Tag,,Empfohlene Zufuhr,p
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Vitamin C,95,mg/Tag,,Empfohlene Zufuhr,p
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Vitamin C,20,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Vitamin C,30,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Vitamin C,45,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Vitamin C,65,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Vitamin C,85,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Natrium,130,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Natrium,200,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Natrium,1500,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Natrium,1500,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Natrium,400,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Natrium,500,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Natrium,750,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Natrium,1100,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Natrium,1400,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Chlorid,300,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Chlorid,450,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Chlorid,2300,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Chlorid,2300,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Chlorid,600,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Chlorid,750,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Chlorid,1150,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Chlorid,1700,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Chlorid,2150,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Kalium,400,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Kalium,600,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Kalium,4000,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Kalium,4000,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Kalium,1100,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Kalium,1300,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Kalium,2000,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Kalium,2900,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Kalium,3600,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Calcium,220,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Calcium,330,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Calcium,1200,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Calcium,1000,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Calcium,600,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Calcium,750,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Calcium,900,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Calcium,1100,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Calcium,1200,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Phosphor,120,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Phosphor,300,mg/Tag,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Phosphor,1250,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Phosphor,700,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Phosphor,500,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Phosphor,600,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Phosphor,800,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Phosphor,1250,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Phosphor,1250,mg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Magnesium,24,mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Magnesium,80,mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Magnesium,260,mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Magnesium,300,mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Magnesium,300,mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Magnesium,300,mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Magnesium,300,mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Magnesium,170,mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Magnesium,190,mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Magnesium,240,mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Magnesium,230,mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Magnesium,240,mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Eisen,"0,5",mg/Tag,,Schätzwert,"t,u"
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Eisen,8,mg/Tag,,Empfohlene Zufuhr,t
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Eisen,15,mg/Tag,,Empfohlene Zufuhr,v
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Eisen,15,mg/Tag,,Empfohlene Zufuhr,v
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Eisen,15,mg/Tag,,Empfohlene Zufuhr,v
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Eisen,8,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Eisen,8,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Eisen,10,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Eisen,15,mg/Tag,,Empfohlene Zufuhr,v
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Eisen,15,mg/Tag,,Empfohlene Zufuhr,v
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Jod,40,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Jod,80,µg/Tag,Supplementationshinweis beachten,Empfohlene Zufuhr,ah
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Jod,180,µg/Tag,,Empfohlene Zufuhr,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Jod,180,µg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Jod,100,µg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Jod,120,µg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Jod,140,µg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Jod,180,µg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Jod,200,µg/Tag,,Empfohlene Zufuhr,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Fluorid,"0,25",mg/Tag,Supplementationshinweis beachten,Richtwert,"am,an,ao"
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Fluorid,"0,5",mg/Tag,Supplementationshinweis beachten,Richtwert,"am,an,ao"
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Fluorid,"2,9",mg/Tag,,Richtwert,"am,an"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Fluorid,"3,1",mg/Tag,,Richtwert,"am,an"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Fluorid,"3,1",mg/Tag,,Richtwert,"am,an"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Fluorid,"3,1",mg/Tag,,Richtwert,"am,an"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Fluorid,"3,1",mg/Tag,,Richtwert,"am,an"
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Fluorid,"0,7",mg/Tag,Supplementationshinweis beachten,Richtwert,"am,an,ao"
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Fluorid,"1,1",mg/Tag,,Richtwert,"am,an"
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Fluorid,"1,1",mg/Tag,,Richtwert,"am,an"
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Fluorid,"2,0",mg/Tag,,Richtwert,"am,an"
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Fluorid,"2,9",mg/Tag,,Richtwert,"am,an"
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Zink,"1,5",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Zink,"2,5",mg/Tag,,Empfohlene Zufuhr,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Zink,11,mg/Tag,,Empfohlene Zufuhr,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Zink,3,mg/Tag,,Empfohlene Zufuhr,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Zink,4,mg/Tag,,Empfohlene Zufuhr,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Zink,6,mg/Tag,,Empfohlene Zufuhr,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Zink,8,mg/Tag,,Empfohlene Zufuhr,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Zink,10,mg/Tag,,Empfohlene Zufuhr,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Zink,7,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Zink,7,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Zink,7,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Zink,7,mg/Tag,bei niedriger Phytatzufuhr,Empfohlene Zufuhr,"x,y1"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Zink,8,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Zink,8,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Zink,8,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Zink,8,mg/Tag,bei mittlerer Phytatzufuhr,Empfohlene Zufuhr,"x,y2"
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Zink,10,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Zink,10,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Zink,10,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Zink,10,mg/Tag,bei hoher Phytatzufuhr,Empfohlene Zufuhr,"x,y3"
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Selen,10,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Selen,15,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Selen,60,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Selen,60,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Selen,60,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Selen,60,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Selen,60,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Selen,15,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Selen,20,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Selen,30,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Selen,45,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Selen,60,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Kupfer,"0,2-0,6",mg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Kupfer,"0,6-0,7",mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Kupfer,"0,5-1,0",mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Kupfer,"0,5-1,0",mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Kupfer,"1,0-1,5",mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Mangan,-,-,Für diese Altersgruppe liegt kein Referenzwert vor.,-,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Mangan,"0,6-1,0",mg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Mangan,"1,0-1,5",mg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Mangan,"1,5-2,0",mg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Mangan,"2,0-3,0",mg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Mangan,"2,0-5,0",mg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Chrom,1-10,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Chrom,20-40,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Chrom,30-100,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Chrom,30-100,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Chrom,20-60,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Chrom,20-80,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Chrom,20-100,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Chrom,20-100,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Chrom,20-100,µg/Tag,,Schätzwert,
+Säuglinge 0 bis unter 4 Monate (Weiblich),Weiblich,Molybdän,7,µg/Tag,,Schätzwert,
+Säuglinge 4 bis unter 12 Monate (Weiblich),Weiblich,Molybdän,20-40,µg/Tag,,Schätzwert,
+Jugendliche 15 bis unter 19 Jahre (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 19 bis unter 25 Jahre (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 25 bis unter 51 Jahre (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 51 bis unter 65 Jahre (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Ewachsene 65 Jahre und älter (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Kinder 1 bis unter 4 Jahre (Weiblich),Weiblich,Molybdän,25-50,µg/Tag,,Schätzwert,
+Kinder 4 bis unter 7 Jahre (Weiblich),Weiblich,Molybdän,30-75,µg/Tag,,Schätzwert,
+Kinder 7 bis unter 10 Jahre (Weiblich),Weiblich,Molybdän,40-80,µg/Tag,,Schätzwert,
+Kinder 10 bis unter 13 Jahre (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
+Kinder 13 bis unter 15 Jahre (Weiblich),Weiblich,Molybdän,50-100,µg/Tag,,Schätzwert,
