@@ -1,4 +1,4 @@
-use std::{collections::HashMap, error::Error, fmt::Display, process};
+use std::{collections::HashMap, error::Error, fmt::Display};
 
 use voodplaner_core::*;
 
@@ -36,7 +36,11 @@ fn parse_value(id: &str, value: &str) -> Result<Amount, Box<dyn Error>> {
         .next()
         .expect("expected value at index 3");
     Ok(match id {
-        "% der Energie" => Amount::PercentageOfEnergy(value.parse()?),
+        "% der Energie" => {
+            let init: f32 = value.parse()?;
+            let normalized: f32 = init / 100.0;
+            Amount::PercentageOfEnergy(normalized)
+        },
         "g/kg KG/Tag" => Amount::GrammPerDay(value.parse()?),
         "mg/Tag" => Amount::MilliGramPerDay(value.parse()?),
         "g/Tag" => Amount::GrammPerDay(value.parse()?),
@@ -148,7 +152,6 @@ pub fn generate() -> Result<String, Box<dyn Error>> {
     writeln!(&mut buffer, "#[rustfmt::skip]")?;
     writeln!(&mut buffer, "use voodplaner_core::*;")?;
     writeln!(&mut buffer, "use Sex::*;")?;
-    writeln!(&mut buffer, "use Group::*;")?;
     writeln!(&mut buffer, "use Nutrient::*;")?;
     writeln!(&mut buffer, "use Amount::*;")?;
     writeln!(&mut buffer, "use VitaminCategory::*;")?;
@@ -168,7 +171,7 @@ pub fn generate() -> Result<String, Box<dyn Error>> {
     )?;
     writeln!(
         &mut buffer,
-        "pub fn lookup(sex: Sex, age: Age) -> &'static [Nutrient] {{"
+        "pub fn lookup(sex: &Sex, age: &Age) -> &'static [Nutrient] {{"
     )?;
     writeln!(&mut buffer, "    match (sex, age.months()) {{")?;
     for (s, a, k) in lookup.keys() {
