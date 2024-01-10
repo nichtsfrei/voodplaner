@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+members = [
+  "voodplaner-core",
+  "voodplaner-requirements",
+  "dge-generator",
+  "usda-nutrients-generator", 
+  "infood-tags-generator",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "GPL-2.0-or-later"

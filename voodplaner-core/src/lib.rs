@@ -47,6 +47,12 @@ impl Group {
     }
 }
 
+pub mod infood {
+    //! Contains known infood tags generated from:
+    //! https://www.fao.org/infoods/infoods/standards-guidelines/food-component-identifiers-tagnames/en/
+    include!(concat!(env!("OUT_DIR"), "/infood.rs"));
+}
+
 #[derive(Debug, Eq, PartialEq, Hash, Clone)]
 pub enum Sex {
     Male,
@@ -279,4 +285,18 @@ impl Nutrient {
     pub fn healthy(&self) -> bool {
         !self.unhealthy()
     }
+}
+
+#[derive(Debug, PartialEq, Eq, Clone)]
+pub enum IncredientGroup {
+    Vegetable,
+    SpiceAndHerb,
+    // maybe there is no fat left when filtered?
+    FatAndOil,
+    Fruit,
+    Nut,
+    Seed,
+    Legume,
+    Grain,
+    Pasta,
 }
