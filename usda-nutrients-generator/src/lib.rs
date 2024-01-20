@@ -10,6 +10,7 @@ mod parser {
         // Float(f32),
     }
 
+    #[derive(Debug, PartialEq)]
     pub struct Fields<'a> {
         pub line: &'a str,
         pub fields: Vec<Field>,
@@ -28,7 +29,7 @@ mod parser {
         let mut is_text = false;
         let mut fields = Vec::with_capacity(2);
         let mut from = None;
-        let mut bytes = line.bytes().enumerate(); 
+        let mut bytes = line.bytes().enumerate();
         loop {
             let c = bytes.next();
             match c {
@@ -81,17 +82,14 @@ mod parser {
             assert_eq!(result.lookup(4), Some("bla"));
         }
 
-
-    #[test]
-    fn hu() {
-        let result = super::parse_line("~313~^~µg~^~FLD~");
+        #[test]
+        fn hu() {
+            let result = super::parse_line("~313~^~µg~^~FLD~");
             assert_eq!(result.lookup(0), Some("313"));
             assert_eq!(result.lookup(1), Some("µg"));
             assert_eq!(result.lookup(2), Some("FLD"));
+        }
     }
-
-    }
-
 }
 
 mod groups {
@@ -158,39 +156,51 @@ mod nutrient {
     pub(crate) struct Definition<'a> {
         nutr_no: &'a str,
         units: &'a str,
-        tag_name: Option<voodplaner_core::infood::Tag>,
+        tag_name: Option<Vec<voodplaner_core::infood::Tag>>,
         name: &'a str,
     }
 
-    fn lookup_infood_tag(f: &Fields) -> voodplaner_core::infood::Tag {
+    fn lookup_infood_tag(f: &Fields) -> Vec<voodplaner_core::infood::Tag> {
         match f.lookup(2) {
             Some("") | None => {
                 match f.lookup(0).expect("food tag") {
                     // TODO FIX ME
                     // adjusted protein
-                    "257" => voodplaner_core::infood::Tag::PROT,
-                    // TODO there is no entry for Phosphorus?! probably creating a manual one
-                    "305" => voodplaner_core::infood::Tag::PROT,
+                    "257" => vec![voodplaner_core::infood::Tag::PROT],
+                    // phosphorus
+                    "305" => vec![voodplaner_core::infood::Tag::P],
                     // potassium
-                    "306" => voodplaner_core::infood::Tag::K,
+                    "306" => vec![voodplaner_core::infood::Tag::K],
+                    "573" => vec![voodplaner_core::infood::Tag::VITE],
+                    "578" => vec![voodplaner_core::infood::Tag::VITB12],
+                    // not further defined
+                    "665" => vec![],
+                    "666" => vec![],
+                    "856" => vec![],
                     _ => panic!(
                         "lookup:{} -> {}",
                         f.lookup(0).unwrap(),
-                        f.lookup(3).unwrap()
+                        f.lookup(3).unwrap(),
                     ),
                 }
             }
-            Some("FLD") => voodplaner_core::infood::Tag::FD,
-            Some("VITA_RAE") => voodplaner_core::infood::Tag::VITA,
-            // TODO change to list
-            // LUT+ZEA
-            // TAG::LUTN Tag::ZEA
-            Some("LUT+ZEA") => voodplaner_core::infood::Tag::LUTN,
-                    Some("TRP_G") => voodplaner_core::infood::Tag::TRP,
-                    Some("THR_G") => voodplaner_core::infood::Tag::THR,
-            Some(t) => match t.try_into() {
-                Ok(t) => t,
-                Err(e) => {
+            Some("FLD") => vec![voodplaner_core::infood::Tag::FD],
+            Some("LUT+ZEA") => vec![
+                voodplaner_core::infood::Tag::LUTN,
+                voodplaner_core::infood::Tag::ZEA,
+            ],
+            Some("TRP_G") => vec![voodplaner_core::infood::Tag::TRP],
+            Some("THR_G") => vec![voodplaner_core::infood::Tag::THR],
+            Some("F22D1T") => vec![voodplaner_core::infood::Tag::F22D1],
+            Some("F22D1C") => vec![voodplaner_core::infood::Tag::F22D1],
+            Some("F18D1TN7") => vec![voodplaner_core::infood::Tag::F18D1N7],
+            Some("F18D2TT") => vec![voodplaner_core::infood::Tag::F18D2],
+            Some("F18D2CLA") => vec![voodplaner_core::infood::Tag::F18D2],
+            Some("F18D3CN6") => vec![voodplaner_core::infood::Tag::F18D3N6],
+            Some("F21D5") => vec![voodplaner_core::infood::Tag::F21D5N3],
+            Some(t) => {
+                let t = voodplaner_core::infood::lookup(t);
+                if t.is_empty() {
                     panic!(
                         "lookup:{} -> {} => {}",
                         f.lookup(0).unwrap(),
@@ -198,24 +208,13 @@ mod nutrient {
                         f.lookup(2).unwrap()
                     )
                 }
-            },
+                t.into_iter().map(|(t, _)| t).collect()
+            }
         }
     }
 
     pub(crate) fn definitions<'a>() -> impl Iterator<Item = Definition<'a>> + 'a {
         DEF.lines().map(crate::parser::parse_line).map(|l| {
-            for (i, hurensohn) in l.fields.iter().enumerate() {
-                let wtf = match l.lookup(i) {
-                    Some(fu) => fu,
-                    None => continue,
-                };
-                if wtf.contains("~") {
-                    panic!("{i}: {hurensohn:?} retrieved: {wtf:?} is wrongly parsed, you fucking moron kill yourself");
-
-
-                }
-
-            }
             let nutr_no = l.lookup(0).expect("nutr_no");
 
             Definition {
@@ -312,6 +311,7 @@ mod description {
                 "HVY SYRUP",
                 "MAYONNAISE",
                 "DRSNG",
+                // can have up to 10% milk fat
                 "MARGARINE",
                 "SANDWICH",
                 "POTATO SALAD",

@@ -82,7 +82,7 @@ fn parse_part(known: &[&str], part: &[u8]) -> Vec<InFoodTag> {
         InTag(usize),
         // special because not keyword based
         SearchShortDescription,
-        InKeyWord(KeyWord, usize, usize),
+        InKeyWord(KeyWord, usize, usize, usize),
     }
     let mut tags = Vec::with_capacity(300);
     let mut state = State::Searching(0);
@@ -114,7 +114,7 @@ fn parse_part(known: &[&str], part: &[u8]) -> Vec<InFoodTag> {
 
             (SearchShortDescription, ' ' | '\t') => {}
             (SearchShortDescription, '\n' | '\r') => {}
-            (SearchShortDescription, _) => state = InKeyWord(KeyWord::Description, i, 0),
+            (SearchShortDescription, _) => state = InKeyWord(KeyWord::Description, i, 0, 0),
 
             (Skip(0), '\n' | '\r') => state = Searching(0),
             (Skip(_), '\n' | '\r') => state = Skip(0),
@@ -135,18 +135,21 @@ fn parse_part(known: &[&str], part: &[u8]) -> Vec<InFoodTag> {
                 state = jb.as_ref().clone()
             }
             (FoundKeyword(s), ' ' | '\t') => {
-                state = InKeyWord(*s, i + 1, 0);
+                state = InKeyWord(*s, i + 1, 1, 1);
             }
 
-            (InKeyWord(_, _, 0), '\n' | '\r') => state = Searching(0),
-            (InKeyWord(kw, start, _), '\n' | '\r') => state = InKeyWord(*kw, *start, 0),
-            // skip starting ws
-            (InKeyWord(_, _, 0), ' ' | '\t') => {}
-            // for the case it starts with an uppercase we simply ignore the rest
-            (InKeyWord(kw, start, 0), c) if c.is_uppercase() => {
-                state = MayKeyword(i, Box::new(InKeyWord(*kw, *start, 1)))
+            (InKeyWord(_, _, 0, 0), '<') => {
+                tags.push(InFoodTag::default());
+                state = InTag(i + 1);
             }
-            (InKeyWord(kw, start, ws), _) => {
+            (InKeyWord(kw, start, _, _), '\n' | '\r') => state = InKeyWord(*kw, *start, 0, 0),
+            // skip starting ws
+            (InKeyWord(kw, start, ws, 0), ' ' | '\t') => state = InKeyWord(*kw, *start, ws + 1, 0),
+            // for the case it starts with an uppercase we simply ignore the rest
+            (InKeyWord(kw, start, _, 0), c) if c.is_uppercase() => {
+                state = MayKeyword(i, Box::new(InKeyWord(*kw, *start, 1, 0)))
+            }
+            (InKeyWord(kw, start, ws, cc), _) => {
                 let writeable = {
                     match kw {
                         KeyWord::Description => &mut tags.last_mut().unwrap().short_description,
@@ -156,17 +159,10 @@ fn parse_part(known: &[&str], part: &[u8]) -> Vec<InFoodTag> {
                     }
                 };
 
-                write!(
-                    writeable,
-                    "{}",
-                    std::str::from_utf8(&part[*start..i + 1]).unwrap()
-                )
-                .unwrap();
-                // if let Some(c) = start {
-                //     write!(writeable, "{c}").unwrap();
-                // }
-                // write!(writeable, "{c}").unwrap();
-                state = InKeyWord(*kw, i + 1, ws + 1);
+                if let Ok(c) = std::str::from_utf8(&part[*start..i + 1]) {
+                    write!(writeable, "{}", c.replace('\r', "")).unwrap();
+                }
+                state = InKeyWord(*kw, i + 1, ws + 1, cc + 1);
             }
 
             _ => {}
@@ -183,7 +179,7 @@ where
 }
 
 fn parse_csv(known: &[&str], data: &str) -> Vec<InFoodTag> {
-    let mut lolrofl = Vec::with_capacity(4);
+    let mut duplicates = Vec::with_capacity(4);
     let mut rdr = csv::Reader::from_reader(std::io::Cursor::new(data));
     let mut records = rdr.records();
     let mut results = Vec::with_capacity(100);
@@ -196,10 +192,10 @@ fn parse_csv(known: &[&str], data: &str) -> Vec<InFoodTag> {
         if in_known(known, &tag) {
             continue;
         }
-        if in_known(&lolrofl, &tag) {
+        if in_known(&duplicates, &tag) {
             continue;
         }
-        lolrofl.push(tag.clone());
+        duplicates.push(tag.clone());
         let short_description = record.get(1).unwrap().to_string();
         let description = record.get(2).unwrap().to_string();
         if description.contains("fish") || description.contains("Fish") {
@@ -207,8 +203,8 @@ fn parse_csv(known: &[&str], data: &str) -> Vec<InFoodTag> {
         }
 
         let unit = record.get(3).unwrap().to_string();
-        let comment = record.get(3).unwrap().to_string();
-        let synonyms = record.get(3).unwrap().to_string();
+        let comment = record.get(4).unwrap().to_string();
+        let synonyms = record.get(5).unwrap().to_string();
 
         let tag = InFoodTag {
             tag,
@@ -273,29 +269,30 @@ pub fn generate() -> String {
         if su.starts_with("mass per unit volume") {
             su = "mass per unit volume";
         }
-        if let Some((divident, divisor)) = su.split_once('/') {
-            let divident = single(divident);
-            let aha = divisor.splitn(2, ' ').collect::<Vec<_>>();
+        if !su.contains("/>") {
+            if let Some((divident, divisor)) = su.split_once('/') {
+                let divident = single(divident);
+                let aha = divisor.splitn(2, ' ').collect::<Vec<_>>();
 
-            return match &aha[..] {
-                [a, "g"] | [a] => format!("Per(Box::new({}), Box::new({}))", divident, single(a)),
-                // except when b is 'g'
-                [a, b] => format!(
-                    "PerGroup(Box::new({}), Box::new({}), {})",
-                    divident,
-                    single(a),
-                    normalize_group(b)
-                ),
-                _ => unreachable!(),
-            };
+                return match &aha[..] {
+                    [a, "g"] | [a] => {
+                        format!("Per(Box::new({}), Box::new({}))", divident, single(a))
+                    }
+                    // except when b is 'g'
+                    [a, b] => format!(
+                        "PerGroup(Box::new({}), Box::new({}), {})",
+                        divident,
+                        single(a),
+                        normalize_group(b)
+                    ),
+                    _ => unreachable!(),
+                };
+            }
         }
-        if su.starts_with("mcg ") {
+        if su.starts_with("mcg") {
             su = "mcg";
         }
 
-        if su.starts_with("mcg.") {
-            su = "mcg";
-        }
         if su.starts_with("mg.") || su.starts_with("mg?") {
             su = "mg";
         }
@@ -305,8 +302,10 @@ pub fn generate() -> String {
     // TAG, Group,Unit
     //    let mut tag: Vec<(&str, &str, &str)> = Vec::with_capacity(1000);
     let mut tag = parse_csv(&[], ADDITION2010);
-    let ufff = || tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>();
-    tag.extend_from_slice(&parse_csv(&ufff(), ADDITION2008));
+    tag.extend_from_slice(&parse_csv(
+        &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
+        ADDITION2008,
+    ));
     tag.extend_from_slice(&parse_part(
         &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
         PART1,
@@ -327,9 +326,6 @@ pub fn generate() -> String {
         &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
         PART5,
     ));
-    // tag.extend_from_slice(&parse_part(&ufff(), PART3));
-    // tag.extend_from_slice(&parse_part(&ufff(), PART4));
-    // tag.extend_from_slice(&parse_part(&ufff(), PART5));
     let mut result = String::new();
     let as_enum = |s: &str| {
         let first_non_digit = s
@@ -430,22 +426,6 @@ pub fn generate() -> String {
     writeln!(result, "}}").unwrap();
     writeln!(result, "").unwrap();
     writeln!(result, "").unwrap();
-    writeln!(result, "#[derive(Debug, Clone, PartialEq)]").unwrap();
-    writeln!(result, "pub enum Unit {{").unwrap();
-    writeln!(result, "    NoUnitAvailable,").unwrap();
-    writeln!(result, "    MilliGramm,").unwrap();
-    writeln!(result, "    MicroGramm,").unwrap();
-    writeln!(result, "    Gramm,").unwrap();
-    writeln!(result, "    Percent,").unwrap();
-    writeln!(result, "    KiloJule,").unwrap();
-    writeln!(result, "    KiloCalories,").unwrap();
-    writeln!(result, "    Per(Box<Unit>,Box<Unit>),").unwrap();
-    writeln!(result, "    PerGroup(Box<Unit>,Box<Unit>, Tag),").unwrap();
-    writeln!(result, "    Fix(f32,Box<Unit>),").unwrap();
-    writeln!(result, "    MassPerUnitVolume,").unwrap();
-    writeln!(result, "").unwrap();
-    writeln!(result, "}}").unwrap();
-    writeln!(result, "").unwrap();
     writeln!(result, "impl Into<Unit> for Tag {{").unwrap();
     writeln!(result, "    fn into(self) -> Unit {{").unwrap();
     writeln!(result, "        use Tag::*;").unwrap();
@@ -474,48 +454,40 @@ mod tests {
     use super::*;
 
     #[test]
-    fn parse_entry() {
-        let entry = r#"
-<AAA>     amino acids, total aromatic
-      Unit:  mg
-      Comments: The total value is the sum of
-          phenylalanine plus tyrosine only, in spite
-          of the fact that tryptophan is also
-          chemically aromatic.
-      Tables: USDA 523, EA, SWD
-"#;
-        let result = parse_part(&[], entry.as_bytes());
-        assert_eq!(result.len(), 1);
-        assert_eq!(result[0].tag(), "AAA".to_string());
-        assert_eq!(
-            result[0].short_description(),
-            "amino acids, total aromatic".to_string()
-        );
-        assert_eq!(result[0].unit(), "mg".to_string());
-        assert_eq!(result[0].comment(), "The total value is the sum of phenylalanine plus tyrosine only, in spite of the fact that tryptophan is also chemically aromatic.".to_string());
+    fn parse_cvs() {
+        let mut tag = parse_csv(&[], ADDITION2010);
+        tag.extend_from_slice(&parse_csv(
+            &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
+            ADDITION2008,
+        ));
+        insta::assert_debug_snapshot!(tag);
     }
 
     #[test]
-    fn parse_proani() {
-        let result = parse_part(&[], super::PART4);
-        assert_eq!(result.len(), 113);
+    fn parse_parts() {
+        let mut tag = parse_part(&[], PART1);
+        tag.extend_from_slice(&parse_part(
+            &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
+            PART2,
+        ));
+        tag.extend_from_slice(&parse_part(
+            &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
+            PART3,
+        ));
+        tag.extend_from_slice(&parse_part(
+            &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
+            PART4,
+        ));
+        tag.extend_from_slice(&parse_part(
+            &tag.iter().map(|x| &x.tag as &str).collect::<Vec<_>>(),
+            PART5,
+        ));
+        insta::assert_debug_snapshot!(tag);
     }
+    
+    #[test]
+    fn generate() {
+        insta::assert_snapshot!(super::generate());
 
-    // #[test]
-    // fn verify_keyword_len_in_parts() {
-    //     let mut tag = parse_part(PART1);
-    //     assert_eq!(tag.len(), 100);
-    //     tag.extend_from_slice(&parse_part(PART2));
-    //     tag.extend_from_slice(&parse_part(PART3));
-    //     tag.extend_from_slice(&parse_part(PART4));
-    //     tag.extend_from_slice(&parse_part(PART5));
-    //     for t in &tag {
-    //         println!("{}", t.tag);
-    //     }
-    //     assert_eq!(tag.len(), 600);
-    // }
-    // #[test]
-    // fn name() {
-    //     panic!("fauled");
-    // }
+    }
 }

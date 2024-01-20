@@ -50,7 +50,54 @@ impl Group {
 pub mod infood {
     //! Contains known infood tags generated from:
     //! https://www.fao.org/infoods/infoods/standards-guidelines/food-component-identifiers-tagnames/en/
+
+    #[derive(Debug, Clone, PartialEq)]
+    pub enum Unit {
+        NoUnitAvailable,
+        MilliGramm,
+        MicroGramm,
+        Gramm,
+        Percent,
+        KiloJule,
+        KiloCalories,
+        Per(Box<Unit>, Box<Unit>),
+        PerGroup(Box<Unit>, Box<Unit>, Tag),
+        Fix(f32, Box<Unit>),
+        MassPerUnitVolume,
+        InternationalUnit,
+    }
     include!(concat!(env!("OUT_DIR"), "/infood.rs"));
+
+    impl TryFrom<&str> for Unit {
+        type Error = ParseError;
+
+        fn try_from(value: &str) -> Result<Self, Self::Error> {
+            match value {
+                _ => Err(ParseError("Unknown Unit: {value}".to_owned())),
+            }
+        }
+    }
+
+    
+
+    /// Does check each pai separated by `_` if it is either a unit or another tag.
+    ///
+    /// If there is no unit provided it returns the default unit of found tag.
+    /// If no tag is found it returns an empty list.
+    pub fn lookup(k: &str) -> Vec<(Tag, Unit)> {
+        let mut results = Vec::with_capacity(2);
+        for k in k.split('_') {
+            if let Ok(t) = Tag::try_from(k) {
+                results.push((t, t.into()));
+            } else if let Ok(u) = Unit::try_from(k) {
+                if let Some(l) = results.last_mut() {
+                    *l = (l.0, u);
+                }
+            }
+        }
+        results
+    }
+
 }
 
 #[derive(Debug, Eq, PartialEq, Hash, Clone)]
